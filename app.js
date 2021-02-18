@@ -53,7 +53,7 @@ const library = [
         'a cleansing and emulsifying agent made usually by action of alkali on fat or fatty acids and consisting essentially of sodium or potassium salts of such acids',
     },
     {
-      word: 'POET',
+      word: 'HERO',
       clue:
         'a mythological or legendary figure often of divine descent endowed with great strength or ability',
     },
